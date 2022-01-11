@@ -1,0 +1,14 @@
+{
+  "name": "com.bohis.core",
+  "displayName": "Menus system for Photon",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "author": "Bohis",
+  "description": "Pack script menu for photon game start",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "",
+    "revision": ""
+  }
+}
